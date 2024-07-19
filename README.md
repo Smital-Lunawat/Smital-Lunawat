@@ -1,6 +1,6 @@
 # 💻 Smital Lunawat 🚀
 
-[![LinkedIn]([https://www.linkedin.com/in/smital-lunawat/])
+[LinkedIn]([https://www.linkedin.com/in/smital-lunawat/])
 
 Hello! I'm Smital Lunawat, a passionate and dynamic Computer Science student at the University of Illinois Urbana-Champaign. With a robust background in software development, I'm driven by creating impactful solutions through technology and design. Here's a glimpse into my journey and the exciting projects I've worked on!
 
@@ -40,7 +40,7 @@ Hello! I'm Smital Lunawat, a passionate and dynamic Computer Science student at 
 - **Achievements:**
   - Leveraged Geospatial Information Systems for real-time risk mitigation.
   - Streamlined content management with NoSQL database and CRUD operations.
-  - 
+    
 
 ## 📫 Let's Connect!
 
